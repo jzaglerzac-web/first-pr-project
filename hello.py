@@ -2,7 +2,7 @@
 """Ein einfaches Hello-World Skript."""
 
 def greet(name):
-    """Grüße eine Persson."""
+    """Grüße eine Person."""
     return f"Hallo {name}, willkommen!"
 
 if __name__ == "__main__":
